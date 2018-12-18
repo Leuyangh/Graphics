@@ -1,0 +1,18 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+*.suo
+*.exe
+*.ilk
+*.log
+*.pch
+*.tlog
+*.lastbuildstate
+*.obj
+*.idb
+*.sdf
+*.ipch
+*.opensdf
+*.res
+*.user
+.vs
+*.db
+*.opendb
