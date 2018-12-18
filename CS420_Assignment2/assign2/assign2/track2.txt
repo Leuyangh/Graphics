@@ -1,0 +1,5 @@
+4
+splines/xaxis.sp
+splines/yaxis.sp
+splines/zaxis.sp
+splines/circle.sp

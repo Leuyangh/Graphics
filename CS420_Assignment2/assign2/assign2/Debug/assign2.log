@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  assign2.cpp
+c:\users\eric\documents\cs420-github\cs420-projects\cs420_assignment2\assign2\assign2\assign2.cpp(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\eric\documents\cs420-github\cs420-projects\cs420_assignment2\assign2\assign2\assign2.cpp(86): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\eric\documents\cs420-github\cs420-projects\cs420_assignment2\assign2\assign2\assign2.cpp(93): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\eric\documents\cs420-github\cs420-projects\cs420_assignment2\assign2\assign2\assign2.cpp(94): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\eric\documents\cs420-github\cs420-projects\cs420_assignment2\assign2\assign2\assign2.cpp(102): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\eric\documents\cs420-github\cs420-projects\cs420_assignment2\assign2\assign2\assign2.cpp(109): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\eric\documents\cs420-github\cs420-projects\cs420_assignment2\assign2\assign2\assign2.cpp(330): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\documents\cs420-github\cs420-projects\cs420_assignment2\assign2\assign2\assign2.cpp(369): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\documents\cs420-github\cs420-projects\cs420_assignment2\assign2\assign2\assign2.cpp(382): warning C4018: '<': signed/unsigned mismatch
+c:\users\eric\documents\cs420-github\cs420-projects\cs420_assignment2\assign2\assign2\assign2.cpp(516): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  assign2.vcxproj -> C:\Users\Eric\Documents\CS420-Github\CS420-Projects\CS420_Assignment2\assign2\Debug\assign2.exe
