@@ -1,4 +1,4 @@
-Leu-yang Huang 1811415408 CSCI 420 Homework 2 - Rollercoaster
+Leu-yang Huang
 Features - right click menu with options to:
 		Increase speed
 		Increase speed significantly
