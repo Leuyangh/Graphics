@@ -1,4 +1,3 @@
-# CS420-Projects
 Graphics projects using OpenGL
 
 All projects are done through OpenGL on Visual Studio 2017.
